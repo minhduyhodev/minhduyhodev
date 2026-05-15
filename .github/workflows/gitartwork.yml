@@ -18,6 +18,9 @@ jobs:
         with:
            user_name: minhduyhodev
            text: MINHDUY!
+      - name: Remove gitartwork footer
+        run: |
+          perl -0pi -e 's|<a href="https://github.com/jasineri/gitartwork"><text x="24" y="139" font-size="0.6em" fill="blue">Get your own gitartwork on jasineri/gitartwork</text></a>||g' gitartwork.svg
       - name: Set Git User
         run: |
           git config user.name "github-actions[bot]"
