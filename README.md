@@ -55,6 +55,10 @@ I am a backend developer specializing in Java and Spring Boot, with a strong foc
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="600">
 </picture>
 
+  <p>
+    <img alt="MINHDUYHODEV" src="gitartwork.svg">
+  </p>
+
   </div>
 </div>
 
