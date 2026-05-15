@@ -22,15 +22,13 @@
 
   <div align="left">
 
-<p>
-I am a backend developer specializing in Java and Spring Boot, with a strong focus on building reliable, scalable systems and clean RESTful APIs. I enjoy solving complex problems and turning requirements into practical, maintainable solutions, with particular interest in database design and backend architecture. If you're interested, feel free to follow my TikTok channel <a href="https://www.tiktok.com/@minhduy2932">@minhduy2932</a>.
-</p>
+I am a backend developer specializing in Java and Spring Boot, with a strong focus on building reliable, scalable systems and clean RESTful APIs. I enjoy solving complex problems and turning requirements into practical, maintainable solutions, with particular interest in database design and backend architecture. If you're interested, feel free to follow me on TikTok at <a href="https://www.tiktok.com/@minhduy2932">@minhduy2932</a>.
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/output/pacman-contribution-graph.svg" width="600">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="600">
 </picture>
 
   </div>
@@ -73,9 +71,9 @@ I am a backend developer specializing in Java and Spring Boot, with a strong foc
 ![Grid-Snake](https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/dist/grid-snake.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/output/pacman-contribution-graph.svg">
 </picture>
 
 <h3 align="left">Languages and Tools</h3>
@@ -162,3 +160,8 @@ I am a backend developer specializing in Java and Spring Boot, with a strong foc
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/minhduyhodev)
 
 </details>
+#   m i n h d u y h o d e v 
+ 
+ #   m i n h d u y h o d e v 
+ 
+ 
