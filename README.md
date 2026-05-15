@@ -27,9 +27,9 @@ I like turning complex requirements into practical solutions while continuously 
 I also share parts of my learning journey on TikTok [@minhduy2932](https://www.tiktok.com/@minhduy2932).
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/output/pacman-contribution-graph.svg" width="600">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="600">
 </picture>
 
   </div>
@@ -161,6 +161,8 @@ I also share parts of my learning journey on TikTok [@minhduy2932](https://www.t
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/minhduyhodev)
 
 </details>
-#   m i n h d u y h o d e v  
- #   m i n h d u y h o d e v  
+#   m i n h d u y h o d e v 
+ 
+ #   m i n h d u y h o d e v 
+ 
  
