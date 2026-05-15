@@ -5,11 +5,23 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://github.com/minhduyhodev"><img width="32px" alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/white"/></a>
+<a href="https://github.com/minhduyhodev"><img width="32px" alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/F03B9E"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/hominhduy610"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn.simpleicons.org/facebook/1877F2"/></a>
+  <a href="https://www.facebook.com/hominhduy610"><img width="32px" alt="Facebook" title="Facebook" src="https://cdn.simpleicons.org/facebook/F03B9E"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.tiktok.com/@minhduy2932"><img width="32px" alt="TikTok" title="TikTok" src="https://cdn.simpleicons.org/tiktok/white"/></a>
+  <a href="https://www.tiktok.com/@minhduy2932"><img width="32px" alt="TikTok" title="TikTok" src="https://cdn.simpleicons.org/tiktok/F03B9E"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn.simpleicons.org/x/F03B9E"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://cdn.simpleicons.org/discord/F03B9E"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/"><img width="32px" alt="Dev.to" title="hoangtien2k3 Dev.to" src="https://cdn.simpleicons.org/devdotto/F03B9E"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://cdn.simpleicons.org/kofi/F03B9E"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.simpleicons.org/youtube/F03B9E"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.buymeacoffee.com/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://cdn.simpleicons.org/buymeacoffee/F03B9E"/></a>
 </p>
 
 <!-- Information myself -->
@@ -22,13 +34,15 @@
 
   <div align="left">
 
+<p>
 I am a backend developer specializing in Java and Spring Boot, with a strong focus on building reliable, scalable systems and clean RESTful APIs. I enjoy solving complex problems and turning requirements into practical, maintainable solutions, with particular interest in database design and backend architecture. If you're interested, feel free to follow me on TikTok at <a href="https://www.tiktok.com/@minhduy2932">@minhduy2932</a>.
+</p>
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="600">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/output/pacman-contribution-graph.svg" width="600">
 </picture>
 
   </div>
@@ -71,9 +85,9 @@ I am a backend developer specializing in Java and Spring Boot, with a strong foc
 ![Grid-Snake](https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/dist/grid-snake.svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/output/pacman-contribution-graph.svg">
 </picture>
 
 <h3 align="left">Languages and Tools</h3>
@@ -160,8 +174,3 @@ I am a backend developer specializing in Java and Spring Boot, with a strong foc
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://github.com/minhduyhodev)
 
 </details>
-#   m i n h d u y h o d e v 
- 
- #   m i n h d u y h o d e v 
- 
- 
