@@ -24,7 +24,14 @@
   <a href="https://www.buymeacoffee.com/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://cdn.simpleicons.org/buymeacoffee/F03B9E"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://leetcode.com/ten-cua-ban"><img width="32px" alt="LeetCode" title="LeetCode" src="https://cdn.simpleicons.org/leetcode/F03B9E"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.python.org/"><img width="32px" alt="Python" title="Python" src="https://cdn.simpleicons.org/python/F03B9E"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://openai.com/codex/"><img width="32px" alt="Codex" title="Codex" src="https://cdn.simpleicons.org/openai/F03B9E"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://claude.ai/"><img width="32px" alt="Claude" title="Claude" src="https://cdn.simpleicons.org/claude/F03B9E"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://gemini.google.com/"><img width="32px" alt="Gemini" title="Gemini" src="https://cdn.simpleicons.org/googlegemini/F03B9E"/></a>
 </p>
 
 <!-- Information myself -->
