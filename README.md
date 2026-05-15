@@ -22,6 +22,11 @@
   <a href="https://www.youtube.com/"><img width="32px" alt="Youtube" title="Youtube" src="https://cdn.simpleicons.org/youtube/F03B9E"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://cdn.simpleicons.org/buymeacoffee/F03B9E"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://leetcode.com/ten-cua-ban"><img width="32px" alt="LeetCode" title="LeetCode" src="https://cdn.simpleicons.org/leetcode/F03B9E"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="https://locket.camera/ten-cua-ban"><img width="32px" alt="Locket" title="Locket" src="https://cdn.simpleicons.org/locket/F03B9E"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <!-- Information myself -->
