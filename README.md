@@ -22,9 +22,8 @@
 
   <div align="left">
 
-I am a backend developer who enjoys building reliable services, clean APIs, and maintainable systems.
-I like turning complex requirements into practical solutions while continuously improving performance, code quality, and scalability.
-I also share parts of my learning journey on TikTok [@minhduy2932](https://www.tiktok.com/@minhduy2932).
+I am a backend developer specializing in Java and Spring Boot, with a strong focus on building reliable, scalable systems and clean RESTful APIs. I enjoy solving complex problems and turning requirements into practical, maintainable solutions, with particular interest in database design and backend architecture. If you're interested, feel free to follow my TikTok channel [@minhduy2932](https://www.tiktok.com/@minhduy2932)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
