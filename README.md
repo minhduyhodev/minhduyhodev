@@ -25,8 +25,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://leetcode.com/ten-cua-ban"><img width="32px" alt="LeetCode" title="LeetCode" src="https://cdn.simpleicons.org/leetcode/F03B9E"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.python.org/"><img width="32px" alt="Python" title="Python" src="https://cdn.simpleicons.org/python/F03B9E"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <!-- Information myself -->
