@@ -12,7 +12,7 @@ jobs:
       - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          game: 'galaga' # Bạn có thể đổi thành 'pacman', 'breakout', 'bomberman' nếu thích
+          games: ['galaga'] # Bạn có thể đổi thành 'pacman', 'breakout', 'bomberman' nếu thích
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
