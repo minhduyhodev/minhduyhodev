@@ -47,7 +47,7 @@ I am a backend developer specializing in Java and Spring Boot, with a strong foc
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/output/galaga.svg">
 </picture>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/output/galaga.svg?v=2026" alt="Galaga Game" width="100%">
+  <img src="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/output/galaga-contribution-graph.svg?v=2026" alt="Galaga Game" width="100%">
 </p>
 
   <p>
