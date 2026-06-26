@@ -1,8 +1,8 @@
-name: Game Graph
+name: Galaga Game Graph
 on:
   schedule:
-    - cron: "0 0 * * *" # Tự động chạy mỗi ngày
-  workflow_dispatch: # Cho phép bạn tự bấm chạy tay
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,7 +12,7 @@ jobs:
       - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: ['galaga'] # Bạn có thể đổi thành 'pacman', 'breakout', 'bomberman' nếu thích
+          games: "galaga"
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
