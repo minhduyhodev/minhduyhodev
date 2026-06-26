@@ -94,7 +94,7 @@ I am a backend developer specializing in Java and Spring Boot, with a strong foc
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/main/output/pacman-contribution-graph.svg">
+  ![Galaga Game](https://raw.githubusercontent.com/minhduyhodev/minhduyhodev/output/galaga.svg)
 </picture>
 
 <h3 align="left">Languages and Tools</h3>
