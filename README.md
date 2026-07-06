@@ -26,14 +26,14 @@
   <a href="https://leetcode.com/ten-cua-ban"><img width="32px" alt="LeetCode" title="LeetCode" src="https://cdn.simpleicons.org/leetcode/F03B9E"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Building+Scalable+Microservices;Clean+Architecture;RESTful+API+Developer;Always+Learning+New+Things"/>
+</p>
 <!-- Information myself -->
 <h2>Hi there, good day</h2>
 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Building+Scalable+Microservices;Clean+Architecture;RESTful+API+Developer;Always+Learning+New+Things"/>
-</p>
+
 <div>
   <!-- <a href="https://github.com/minhduyhodev">
       <img src="img/icon_docker_sys.png" alt="Backend Developer" align="right" width="210">
