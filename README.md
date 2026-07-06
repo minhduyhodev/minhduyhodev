@@ -31,9 +31,9 @@
 <h2>Hi there, good day</h2>
 
 <div>
-  <a href="https://github.com/minhduyhodev">
+  <!-- <a href="https://github.com/minhduyhodev">
       <img src="img/icon_docker_sys.png" alt="Backend Developer" align="right" width="210">
-  </a>
+  </a> -->
 
   <div align="left">
 
